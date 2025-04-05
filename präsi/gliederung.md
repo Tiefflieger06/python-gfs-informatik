@@ -1,0 +1,34 @@
+# Gliederung
+
+- Einführung
+    - Was ist Python?
+- Theorie:
+    - Entstehung und Geschichte
+    - Warum Python lernen?
+    - Verbreitung und Einsatzgebiete
+    - Philosophie (Zen of Python)
+        - Grundlegende Unterschiede zu Java
+- Praxis:
+    - Syntax und Basics -> mit bisherigem Java vergleichen
+        - Funktionen wie print()
+        - Variablen (+ Datentypen) und rechnen
+        - if, while, for
+        - Funktionen definieren
+        - Klassen
+    - Selbst programmieren auf https://code.luca4.com -> Aufgaben in Templateordner vorbereiten
+        - erst kurze Einführung
+        - Hint auf Easter eggs
+        - assistieren bei Problemen
+- Möglichkeiten der Programmierung in Python
+    - eigene Projekte vorstellen
+        - Ebenenconverter
+        - Discordbot
+        - ComfyUI Frontend -> Test mit "informatik", Passwort wie Codeserver
+        - AI Slideshow
+    - Nutzung heute (Firmen wie Google, Netflix, ...)
+- Ende
+    - Empfohlene Lernressourcen
+    - Werbung Website und Github repo
+    - Quellen
+    - `print("Danke für eure Aufmerksamkeit!")`
+    - Special: Nutzung von Git
