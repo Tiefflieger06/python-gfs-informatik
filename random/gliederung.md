@@ -25,7 +25,6 @@
         - Discordbot
         - ComfyUI Frontend -> Test mit "informatik", Passwort wie Codeserver
         - AI Slideshow
-    - Nutzung heute (Firmen wie Google, Netflix, ...)
 - Ende
     - Empfohlene Lernressourcen
     - Werbung Website und Github repo
