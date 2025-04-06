@@ -104,6 +104,9 @@ public class Main {
 > Readability counts.
 
 ---
+# Praxis
+
+---
 # Quellen
 - https://docs.python.org/3/faq/general.html#what-is-python
 - https://www.python.org/about/success/
