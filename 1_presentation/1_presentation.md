@@ -84,10 +84,10 @@ public class Main {
 
 ---
 # Warum Python lernen?
-- Simpler Syntax
+- Simple Syntax
     - einfach zu lesen und schreiben
 - Objektorientiert und High Level
-    - Nennenswerte und motivierende Ergebnisse ohne abstrakte Probleme in kurzer Zeit erreichen
+    - Nennenswerte und motivierende Ergebnisse ohne große Hürden in kurzer Zeit erreichen
 - Enorme Community
     - Fast jede Frage wurde im Internet schon gelöst
     - Zahlreiche Bibliotheken für unzählige vielfältige Anwendungen
