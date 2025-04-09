@@ -8,6 +8,16 @@ theme: uncover
 > Weniger ist mehr.
 
 ---
+# Gliederung
+1. Was ist Python?
+2. Entstehung und Geschichte
+3. Verbreitung und Nutzung
+4. Warum Python lernen?
+5. Philosophie
+6. Praxis
+7. Eigene Projekte un Fazit
+
+---
 # Was ist Python
 - Weltweit genutzte Programmiersprache
 - Interpretiert -> Skriptsprache
